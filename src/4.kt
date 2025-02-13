@@ -6,7 +6,7 @@ suspend fun main()= coroutineScope {
     val account1 = "Account1"
     var account1Balance = 5000
     val account2 = "Account2"
-    var account2Balance = 15000
+    var account2Balance = 1500
     val account3 = "Account3"
     var account3Balance = 60000
 
